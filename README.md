@@ -18,5 +18,5 @@ It has the Following Features:
 2. Npm start (to build and run the React application)
 
 ## Screenshots
-![App Screenshot](https://drive.google.com/file/d/18VW6BHUq-dMxOXmMIQGcNhx_Zs-5QKNM/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/18d-pjNLSmCidmI9dFBX_w-G_TThJMVl2/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=18VW6BHUq-dMxOXmMIQGcNhx_Zs-5QKNM)
+![App Screenshot](https://drive.google.com/uc?18d-pjNLSmCidmI9dFBX_w-G_TThJMVl2)
