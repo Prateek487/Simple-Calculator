@@ -19,4 +19,4 @@ It has the Following Features:
 
 ## Screenshots
 ![App Screenshot](https://drive.google.com/uc?id=18VW6BHUq-dMxOXmMIQGcNhx_Zs-5QKNM)
-![App Screenshot](https://drive.google.com/uc?18d-pjNLSmCidmI9dFBX_w-G_TThJMVl2)
+![App Screenshot](https://drive.google.com/uc?id=18d-pjNLSmCidmI9dFBX_w-G_TThJMVl2)
