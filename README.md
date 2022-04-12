@@ -1,4 +1,4 @@
-# Simple Calculator
+## Simple Calculator
 This is a simple calculator build using React.js.
 It has the Following Features:
 1. The basic UI of the calculator has the following elements:
